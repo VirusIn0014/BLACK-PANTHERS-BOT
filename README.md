@@ -47,7 +47,7 @@
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
 - Your PANTHERS Bot Session Will be saved in your Telegram Saved Message.
-- [![Replit](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@sameerpanthi/BLACK-PANTHERS-BOT)
+- [![Replit](https://telegra.ph/file/d9ea57d1f68ac2e7814a2.jpg)](https://replit.com/@sameerpanthi/BLACK-PANTHERS-BOT)
 
 ### TERMUX
 - Open the TERMUX
