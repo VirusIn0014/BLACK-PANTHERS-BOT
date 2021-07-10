@@ -1,7 +1,7 @@
 {
-  "name": "Hêllẞø†",
-  "description": "Hêllẞø† is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
-  "logo": "https://telegra.ph/file/7decf235312af8536e9aa.jpg ",
+  "name": "BlackPanthers",
+  "description": "Black Panthers is one of the Best UserBot for Telegram. Known for its Smoothness, Design, Support.",
+  "logo": "https://telegra.ph/file/7f19669219bcb2fe1338e.jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -11,17 +11,17 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/The-HellBot/HellBot/",
-  "website": "https://github.com/The-HellBot/",
-  "success_url": "https://t.me/The_HellBot",
+  "repository": "https://github.com/SAMEERPANTHI/BLACK-PANTHERS-BOT/",
+  "website": "https://github.com/SAMEERPANTHI/",
+  "success_url": "https://t.me/DEADLY_TECHY",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
       "value": "ANYTHING"
     },
     "YOUR_NAME": {
-      "description": "Fill Your Telegram Name. Default Value is Hêll",
-      "value": "『ℌєℓℓ』",
+      "description": "Fill Your Telegram Name. Default Value is PANTHER",
+      "value": "『PANTHER』",
       "required": false
     },
     "ALIVE_MSG": {
@@ -31,22 +31,22 @@
     },
     "ALIVE_PIC": {
       "description": "Paste the telegraph link of a video/gif/pic to show on Alive.",
-      "value": "",
+      "value": "https://telegra.ph/file/7f19669219bcb2fe1338e.jpg",
       "required": false
     },
     "ABUSE": {
-      "description": "Leave it blank if you dont want Profanity in HellBot. Else Fill ON.",
+      "description": "Leave it blank if you dont want Profanity in PANTHERS BOT. Else Fill ON.",
       "value": "ON",
       "required": false
     },
     "PMPERMIT_PIC": {
       "description": "Paste the Telegraph link to show in pm permit message.",
-      "value": "",
+      "value": "https://telegra.ph/file/7f19669219bcb2fe1338e.jpg",
       "required": false
     },
     "PM_LOG_ID": {
       "description": "Fill your private Channel ID if you want to Log PM messages. Get channel id from @HELL_ID_BOT",
-      "value": "",
+      "value": "-443277036",
       "required": false
     },
     "HANDLER": {
@@ -67,51 +67,51 @@
     },
     "APP_ID": {
       "description": "Get this value from my.telegram.org",
-      "value": ""
+      "value": "2184829"
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org",
-      "value": ""
+      "value": "6930b92388baabff4cb4a1d377085035"
     },
     "LOGGER_ID": {
-      "description": "Create a private channel. And get it's id from @HELL_ID_BOT and paste here. Value should start with -100",
-      "value": ""
+      "description": "Create a private channel then add @deadly_manager_bot then type /id",
+      "value": "-443277036"
     },
-    "HELLBOT_SESSION": {
+    "PANTHERS_SESSION": {
       "description": "Get this value by using repl or termux. Refer to Repo for more info.",
       "value": ""
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API. Required for updater to work.",
-      "value": "",
+      "value": "22c9f205-3860-48e7-a1e5-457c15480877",
       "required": true
     },
     "HEROKU_APP_NAME": {
       "description": "The Value of App Name you filled in right on top. Required for updater to work.",
-      "value": "",
+      "value": "ENTER-UR-APP-NAME",
       "required": true
     },
     "BOT_TOKEN": {
       "description": "Make a bot from @BotFather and paste the bot token here.",
-      "value": ""
+      "value": "1811850012:AAFnXnax9KfBAMw81rr08igKpnhn1xQ5wmM"
     },
     "TAG_LOGGER": {
       "description": "Make a group and add rose. Do /id and paste the chat id here.",
-      "value": "",
+      "value": "-443277036",
       "required": false
     },
     "BOT_USERNAME": {
       "description": "Make a bot from @BotFather and paste the username here.",
-      "value": ""
+      "value": "http://t.me/BLACK_PANTHERS_PUBLIC_BOT"
     },
     "YOUR_CHANNEL": {
-      "description": "Fill your channel username(without @) to get this displayed on your Hell Alive.",
-      "value": "",
+      "description": "Fill your channel username(without @) to get this displayed on your Panthers Alive.",
+      "value": "@deadly_techy",
       "required": false
     },
     "YOUR_GROUP": {
-      "description": "Fill your group username(without @) to get this displayed on your Hell Alive.",
-      "value": "",
+      "description": "Fill your group username(without @) to get this displayed on your Panthers Alive.",
+      "value": "deadly_userbot",
       "required": false
     },
     "SUDO_USERS": {
