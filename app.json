@@ -111,7 +111,7 @@
     },
     "YOUR_GROUP": {
       "description": "Fill your group username(without @) to get this displayed on your Panthers Alive.",
-      "value": "deadly_userbot",
+      "value": "BLACKPANTHERSBOLTE",
       "required": false
     },
     "SUDO_USERS": {
