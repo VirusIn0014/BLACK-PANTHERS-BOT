@@ -24,7 +24,7 @@
 
 ------
 ## Deploy 🚀
-- [![Deploy](https://telegra.ph/file/65380c1a4a95a0feda05f.jpg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2Fsameerpanthi%2FBLACK-PANTHERS-BOT&template=https%3A%2F%2Fgithub.com%2Fsameerpanthi)
+- [![Deploy](https://telegra.ph/file/65380c1a4a95a0feda05f.jpg)](https://heroku.com/deploy?template=https://github.com/sameerpanthi/BLACK-PANTHERS-BOT)
 
 
 ## Variables
