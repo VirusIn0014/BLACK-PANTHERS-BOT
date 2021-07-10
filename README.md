@@ -19,8 +19,8 @@
                             
 ------
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/DEADLY_USERBOT)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/DEADLY_TECHY)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/BLACKPANTHERSBOLTE)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/PANTHERS_TECH)
 
 ------
 ## Deploy 🚀
@@ -52,7 +52,7 @@
 - Open the TERMUX
 - Paste this code.
 
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/sameerpanthi/BLACK-PANTHERS-USERBOT/master/BlackPanthers-string.py && python3 BlackPanthers-string.py`
+`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/OPBLACKPANTHERS/BLACK-PANTHERS-USERBOT/master/BlackPanthers-string.py && python3 BlackPanthers-string.py`
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
