@@ -8,14 +8,14 @@
 
 𝙱𝙴𝚂𝚃 𝙰𝙽𝙳 𝙼𝙾𝚂𝚃 𝙰𝚆𝙰𝙸𝚃𝙴𝙳 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 𝚃𝙾 𝙼𝙰𝙽𝙰𝙶𝙴 𝚈𝙾𝚄𝚁 𝙰𝙲𝙲𝙾𝚄𝙽𝚃 𝚆𝙸𝚃𝙷 𝙻𝚄𝚇𝚄𝚁𝙸𝙾𝚄𝚂 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂 𝙲𝙾𝙼𝙿𝙰𝚁𝙴𝙳 𝚃𝙾 𝙰𝙽𝚈 𝙾𝚃𝙷𝙴𝚁 𝙱𝙾𝚃𝚂..𝙰𝙻𝚂𝙾 𝚆𝙸𝚃𝙷 𝚂𝙴𝙲𝚄𝚁𝚄𝚃𝚈 𝙵𝙴𝙰𝚃𝚄𝚁𝙴𝚂
 ------
-[![GitHub forks](https://img.shields.io/github/forks/The-HellBot/HellBot?&style=flat-square&logo=github)](https://github.com/The-HellBot/HellBot/fork)
-[![GitHub stars](https://img.shields.io/github/stars/The-HellBot/HellBot?&style=flat-square&logo=github)](https://github.com/The-HellBot/HellBot/stargazers)
-![Repo Size](https://img.shields.io/github/repo-size/The-HellBot/HellBot?&style=flat-square&logo=github)
+[![GitHub forks](https://img.shields.io/github/forks/sameerpanthi/BLACK-PANTHERS-BOT?&style=flat-square&logo=github)](https://github.com/SAMEERPANTHI/BLACK-PANTHERS-BOT/fork)
+[![GitHub stars](https://img.shields.io/github/stars/SAMEERPANTHI/BLACK-PANTHERS-BOT?&style=flat-square&logo=github)](https://github.com/SAMEERPANTHI/BLACK-PANTHERS-BOT/stargazers)
+![Repo Size](https://img.shields.io/github/repo-size/SAMEERPANTHI/BLACK-PANTHERS-BOT?&style=flat-square&logo=github)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green?&style=flat-square)
-[![GitHub license](https://img.shields.io/github/license/The-HellBot/HellBot?&style=flat-square&logo=github)](https://github.com/The-HellBot/HellBot/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/SAMEERPANTHI/BLACK-PANTHERS-BOT?&style=flat-square&logo=github)](https://github.com/SAMEERPANTHI/BLACK-PANTHERS-BOT/blob/master/LICENSE)
 [![Python](https://img.shields.io/badge/Python-v3.9-blue)](https://www.python.org/)
 ![Branch](https://img.shields.io/badge/Branch-Master-orange)
-![GitHub language count](https://img.shields.io/github/languages/count/The-HellBot/HellBot?color=Pink&label=Language&style=flat-square)
+![GitHub language count](https://img.shields.io/github/languages/count/SAMEERPANTHI/BLACK-PANTHERS-BOT?color=Pink&label=Language&style=flat-square)
                             
 ------
 ## Telegram 🏪
