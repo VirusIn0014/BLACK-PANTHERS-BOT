@@ -13,7 +13,7 @@
   ],
   "repository": "https://github.com/OPBLACKPANTHERS/BLACK-PANTHERS-BOT/",
   "website": "https://github.com/OPBLACKPANTHERS/",
-  "success_url": "https://t.me/DEADLY_TECHY",
+  "success_url": "https://t.me/PANTHERS_TECH",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable heroku.",
@@ -106,7 +106,7 @@
     },
     "YOUR_CHANNEL": {
       "description": "Fill your channel username(without @) to get this displayed on your Panthers Alive.",
-      "value": "@deadly_techy",
+      "value": "@PANTHERS_TECH",
       "required": false
     },
     "YOUR_GROUP": {
