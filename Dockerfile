@@ -1,7 +1,7 @@
 FROM teamvaders/hellbot:latest
 
 #clonning repo 
-RUN git clone https://github.com/sameerpanthi/BLACK-PANTHERS-USERBOT.git /root/BlackPanthers
+RUN git clone https://github.com/OPBLACKPANTHERS/BLACK-PANTHERS-USERBOT.git /root/BlackPanthers
 
 #working directory 
 WORKDIR /root/BlackPanthers
