@@ -52,7 +52,7 @@
 - Open the TERMUX
 - Paste this code.
 
-`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/sameerpanthi/BLACK-PANTHERS-USERBOT/master/BlackPanther_string.py && python3 BlackPanther_string.py`
+`pkg install python wget -y && pip install telethon && wget https://raw.githubusercontent.com/sameerpanthi/BLACK-PANTHERS-USERBOT/master/BlackPanthers_string.py && python3 BlackPanthers_string.py`
 - Fill API ID, API HASH, Phone number (with country code).
 - Paste the OTP received on Telegram.
 - If You have Enabled 2-Step Verification then fill your password.
