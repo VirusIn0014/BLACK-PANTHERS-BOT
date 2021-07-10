@@ -24,7 +24,7 @@
 
 ------
 ## Deploy 🚀
-- [![Deploy](https://telegra.ph/file/dc77788223d79180ec812.jpg)](#Deploy-To-Heroku)
+- [![Deploy](https://telegra.ph/file/65380c1a4a95a0feda05f.jpg)](#Deploy-To-Heroku)
 
 - [![Locally](https://telegra.ph/file/15027ba18429789a77255.jpg)](#Deploy-Locally)
 
