@@ -10,9 +10,9 @@
     "hellbot",
     "modular",
     "productivity"
-  ],
-  "repository": "https://github.com/OPBLACKPANTHERS/BLACK-PANTHERS-BOT/",
-  "website": "https://github.com/OPBLACKPANTHERS/",
+],
+  "repository": "https://github.com/OPBLACKPANTHERS/BLACK-PANTHERS-BOT",
+  "website": "https://github.com/OPBLACKPANTHERS",
   "success_url": "https://t.me/PANTHERS_TECH",
   "env": {
     "ENV": {
@@ -71,11 +71,11 @@
     },
     "API_HASH": {
       "description": "Get this value from my.telegram.org",
-      "value": "6930b92388baabff4cb4a1d377085035"
+      "value": ""
     },
     "LOGGER_ID": {
       "description": "Create a private channel then add @deadly_manager_bot then type /id",
-      "value": "-443277036"
+      "value": ""
     },
     "PANTHERS_SESSION": {
       "description": "Get this value by using repl or termux. Refer to Repo for more info.",
@@ -83,61 +83,64 @@
     },
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API. Required for updater to work.",
-      "value": "22c9f205-3860-48e7-a1e5-457c15480877",
+      "value": "",
       "required": true
     },
     "HEROKU_APP_NAME": {
       "description": "The Value of App Name you filled in right on top. Required for updater to work.",
-      "value": "ENTER-UR-APP-NAME",
-      "required": true
+      "value": ""
+      "required": false
     },
     "BOT_TOKEN": {
       "description": "Make a bot from @BotFather and paste the bot token here.",
-      "value": "1811850012:AAFnXnax9KfBAMw81rr08igKpnhn1xQ5wmM"
+      "value": ""
     },
     "TAG_LOGGER": {
       "description": "Make a group and add rose. Do /id and paste the chat id here.",
-      "value": "-443277036",
+      "value": ""
       "required": false
     },
     "BOT_USERNAME": {
-      "description": "Make a bot from @BotFather and paste the username here.",
-      "value": "http://t.me/BLACK_PANTHERS_PUBLIC_BOT"
+      "description": "Make a bot from @BotFather and paste the username here including @.",
+      "value": ""
     },
     "YOUR_CHANNEL": {
       "description": "Fill your channel username(without @) to get this displayed on your Panthers Alive.",
-      "value": "@PANTHERS_TECH",
+      "value": ""
       "required": false
     },
     "YOUR_GROUP": {
       "description": "Fill your group username(without @) to get this displayed on your Panthers Alive.",
-      "value": "BLACKPANTHERSBOLTE",
+      "value": ""
       "required": false
     },
     "SUDO_USERS": {
       "description": "Userid of user to grant sudo access. Add multiple sudo users by giving a space between userids",
-      "value": "",
+      "value": ""
       "required": false
-    }
+    
   },
-  "addons": [{
-    "plan": "heroku-postgresql",
-    "options": {
-      "version": "12"
+  "addons": [
+    {
+      "plan": "heroku-postgresql",
+      "options": {
+        "version": "12"
+      }
     }
-  }],
-  "buildpacks": [{
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+  ],
+ "buildpacks": [
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+  },{
+    "url":"https://github.com/amivin/aria2-heroku.git"
   },{
     "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
+  },{
+     "url": "https://github.com/heroku/heroku-buildpack-apt.git"
   },{
     "url":"https://github.com/heroku/heroku-buildpack-chromedriver"
   },{
     "url": "https://github.com/opendoor-labs/heroku-buildpack-p7zip"
-  },{
-    "url": "https://github.com/heroku/heroku-buildpack-apt.git"
-  },{
-    "url": "https://github.com/chrismytton/heroku-buildpack-jq"
   },{
     "url": "heroku/python"
   }]
